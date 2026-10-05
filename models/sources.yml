@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: public
+    tables:
+      - name: raw_cases_2014
+      - name: type_name_key
+      - name: type_crosswalk
